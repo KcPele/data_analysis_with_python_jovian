@@ -1,0 +1,25 @@
+{
+  "notebooks": {
+    "first-steps-with-python.ipynb": {
+      "slug": "4ef4157747264d938cb5967841995e04"
+    },
+    "python-variables-and-data-types.ipynb": {
+      "slug": "96e409b7275a40f69f8df02eb48af9d5"
+    },
+    "python-practice-assignment.ipynb": {
+      "slug": "16924e1bc03742898b27f96776eed6d7"
+    },
+    "Untitled2.ipynb": {
+      "slug": "16af0ca7329d413fbd3d4de43501d36f"
+    },
+    "my-practice-page3.ipynb": {
+      "slug": "16af0ca7329d413fbd3d4de43501d36f"
+    },
+    "pandas_practice_notebook.ipynb": {
+      "slug": "0f4b790ef4664b16901f59d49f096c0d"
+    },
+    "data-visualization-practice-notebook.ipynb": {
+      "slug": "859a37b424e8425fb5f70e76128536f9"
+    }
+  }
+}
